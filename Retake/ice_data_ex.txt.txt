@@ -1,0 +1,8 @@
+1: temp=-15.5 ; pressure=101325 ; thickness=2.5
+2: temp=❄️❄️❄️ ; pressure=95000 ; thickness=1.8
+3: temp=-5.2 ; pressure=98000 ; thickness=3.1
+4: temp=-20.0 ; pressure=1e5 ; thickness=3.5
+5: temp=-10 ; pressure=🧊 ; thickness=2.0
+6: temp=0 ; pressure=101325 ; thickness=1.5
+7: temp=-25.8 ; pressure=92000 ; thickness=4.2
+8: temp=invalid ; pressure=99000 ; thickness=2.8
